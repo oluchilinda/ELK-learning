@@ -71,5 +71,5 @@ tar -zxvf kibana-{kibana_version}-darwin-x86_64.tar.gz
 cd kibana-{kibana_version}
  bin/kibana
  ```
-3. Open http://localhost:5601 in your favorite browser.
+Open http://localhost:5601 in your favorite browser.
 ![Kibana](img/kibana.png)
