@@ -73,3 +73,9 @@ cd kibana-{kibana_version}
  ```
 Open http://localhost:5601 in your favorite browser.
 ![Kibana](img/kibana.png)
+
+Kibana Console has an editor that allows you to interact with Elastic rich REST API
+You can navigate to the Console by typing console on search button OR clicking on `Dev tool`
+The Console is divided into two parts: the editor pane and the results pane.
+![Kibana Console](img/kibana_console.png)
+
